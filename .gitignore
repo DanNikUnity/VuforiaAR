@@ -12,6 +12,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/Packages/com.ptc.vuforia.engine-11.4.4.tgz
 /[Uu]ser[Ss]ettings/
 *.log
 
